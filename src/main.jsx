@@ -5,5 +5,5 @@ import Counter from './components/counter'
 createRoot(document.getElementById('root')).render(
   <StrictMode>
     <Counter />
-  </StrictMode>,
+  </StrictMode>
 )
